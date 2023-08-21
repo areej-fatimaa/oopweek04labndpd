@@ -1,0 +1,10 @@
+D:\oopweek4pdTask\GameInCsharp\bin\Debug\GameInCsharp.exe.config
+D:\oopweek4pdTask\GameInCsharp\bin\Debug\GameInCsharp.exe
+D:\oopweek4pdTask\GameInCsharp\bin\Debug\GameInCsharp.pdb
+D:\oopweek4pdTask\GameInCsharp\bin\Debug\EZInput.dll
+D:\oopweek4pdTask\GameInCsharp\bin\Debug\EZInput.xml
+D:\oopweek4pdTask\GameInCsharp\obj\Debug\GameInCsharp.csproj.AssemblyReference.cache
+D:\oopweek4pdTask\GameInCsharp\obj\Debug\GameInCsharp.csproj.CoreCompileInputs.cache
+D:\oopweek4pdTask\GameInCsharp\obj\Debug\GameInCsharp.csproj.CopyComplete
+D:\oopweek4pdTask\GameInCsharp\obj\Debug\GameInCsharp.exe
+D:\oopweek4pdTask\GameInCsharp\obj\Debug\GameInCsharp.pdb

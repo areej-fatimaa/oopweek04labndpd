@@ -1,0 +1,7 @@
+D:\oopweek4pdTask\BussinessApplicationCS\bin\Debug\BussinessApplicationCS.exe.config
+D:\oopweek4pdTask\BussinessApplicationCS\bin\Debug\BussinessApplicationCS.exe
+D:\oopweek4pdTask\BussinessApplicationCS\bin\Debug\BussinessApplicationCS.pdb
+D:\oopweek4pdTask\BussinessApplicationCS\obj\Debug\BussinessApplicationCS.csproj.AssemblyReference.cache
+D:\oopweek4pdTask\BussinessApplicationCS\obj\Debug\BussinessApplicationCS.csproj.CoreCompileInputs.cache
+D:\oopweek4pdTask\BussinessApplicationCS\obj\Debug\BussinessApplicationCS.exe
+D:\oopweek4pdTask\BussinessApplicationCS\obj\Debug\BussinessApplicationCS.pdb
