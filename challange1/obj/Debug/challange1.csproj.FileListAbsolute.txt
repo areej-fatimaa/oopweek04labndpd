@@ -1,0 +1,7 @@
+D:\oopweek04lab\challange1\bin\Debug\challange1.exe.config
+D:\oopweek04lab\challange1\bin\Debug\challange1.exe
+D:\oopweek04lab\challange1\bin\Debug\challange1.pdb
+D:\oopweek04lab\challange1\obj\Debug\challange1.csproj.AssemblyReference.cache
+D:\oopweek04lab\challange1\obj\Debug\challange1.csproj.CoreCompileInputs.cache
+D:\oopweek04lab\challange1\obj\Debug\challange1.exe
+D:\oopweek04lab\challange1\obj\Debug\challange1.pdb
